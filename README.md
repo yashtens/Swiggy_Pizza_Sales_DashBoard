@@ -1,4 +1,4 @@
-#🍕 Swiggy Pizza Sales Dashboard (Excel Project)<br>
+🍕 Swiggy Pizza Sales Dashboard (Excel Project)<br>
 📌 Project Overview<br>
 
 This project presents an interactive Pizza Sales Dashboard built using Microsoft Excel. The dashboard analyzes Swiggy pizza sales data to uncover meaningful insights such as sales trends, top-performing products, and customer behavior.<br>
@@ -29,5 +29,5 @@ Price<br>
 Order Date<br>
 Total Revenue<br>
 📷 Dashboard Preview<br><br><br>
-![Dashboard Preview](Screenshot 2026-03-26 083151.png)
+![Dashboard Preview](https://github.com/yashtens/Swiggy_Pizza_Sales_DashBoard/blob/main/Screenshot%202026-03-26%20083151.png)
 
